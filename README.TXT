@@ -1,0 +1,17 @@
+ARQUIVOS RELATIVOS AO TRABALHO FINAL DA EQUIPE 8 DE BANCO DE DADOS;
+
+SEGUE LISTA DE ARQUIVOS SEGUIDA DA ORDEM RECOMENDADA DE EXECUÇÃO
+
+db.sql <-------------- ARQUIVO DE CRIAÇÃO DO BANCO
+inserts.sql <--------- CARGA DE DADOS
+teste_metodos.sql <--- ARQUIVO COM O TESTE DOS MÉTODOS
+triggers.sql <-------- ARQUIVO COM AS TRIGGERS
+consultas.sql <------- ARQUIVO COM AS CONSULTAS, UPDATES SOLICITADOS
+
+
+
+
+
+
+VÍDEO DA EXECUÇÃO DOS TESTES
+https://www.youtube.com/watch?v=7hcDjDKeGoQ&feature=youtu.be
